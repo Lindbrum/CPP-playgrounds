@@ -1,3 +1,0 @@
-C:/Users/dox95/CLionProjects/CPP-playgrounds/Hello-world/cmake-build-debug/CMakeFiles/Hello_world.dir
-C:/Users/dox95/CLionProjects/CPP-playgrounds/Hello-world/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/dox95/CLionProjects/CPP-playgrounds/Hello-world/cmake-build-debug/CMakeFiles/rebuild_cache.dir
