@@ -1,3 +1,3 @@
-C:/Users/dox95/CLionProjects/CPP-playgrounds/Item-list/cmake-build-debug/CMakeFiles/Item_list.dir
-C:/Users/dox95/CLionProjects/CPP-playgrounds/Item-list/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/dox95/CLionProjects/CPP-playgrounds/Item-list/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/dox95/workspaces/CLionProjects/CPP-playgrounds/Item-list/cmake-build-debug/CMakeFiles/Item_list.dir
+C:/Users/dox95/workspaces/CLionProjects/CPP-playgrounds/Item-list/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dox95/workspaces/CLionProjects/CPP-playgrounds/Item-list/cmake-build-debug/CMakeFiles/rebuild_cache.dir

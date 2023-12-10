@@ -57,12 +57,12 @@ int main(){
             case 'm':
             case 'M':{
                 float mean {0};
-                if(content.size() == 0){
+                if(content.empty()){
                     cout << "No items to calculate the mean on!";
                     break;
                 }
-                for(long long unsigned int i = 0; i < content.size(); i++){
-                    mean += content.at(i);
+                for(int i : content){
+                    mean += i;
                 }
                 mean /= static_cast<float>(content.size());
                 cout << "The mean of the items is: " << mean <<endl;
@@ -70,7 +70,7 @@ int main(){
             }
             case 's':
             case 'S':{
-                if(content.size() == 0){
+                if(content.empty()){
                     cout << "The list is empty!";
                     break;
                 }
@@ -83,7 +83,7 @@ int main(){
             }
             case 'g':
             case 'G':{
-                if(content.size() == 0){
+                if(content.empty()){
                     cout << "The list is empty!";
                     break;
                 }
@@ -94,8 +94,12 @@ int main(){
                 cout << "The greatest item is: " << sorted.at(sorted.size()-1) << endl;
                 break;
             }
+            case 'q':
+                case 'Q': {
+                    break;
+                }
             default: {
-                cout << "Unknown command, try again."
+                cout << "Unknown command, try again.";
             }
 
 
