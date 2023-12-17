@@ -1,0 +1,3 @@
+C:/Users/dox95/workspaces/CLionProjects/CPP-playgrounds/Letter-pyramid/cmake-build-debug/CMakeFiles/Letter_pyramid.dir
+C:/Users/dox95/workspaces/CLionProjects/CPP-playgrounds/Letter-pyramid/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dox95/workspaces/CLionProjects/CPP-playgrounds/Letter-pyramid/cmake-build-debug/CMakeFiles/rebuild_cache.dir
